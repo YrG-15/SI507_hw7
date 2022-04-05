@@ -8,5 +8,5 @@
   shows the text “Hello Biff!”
 5. Go to the URL "http://127.0.0.1:5000/headlines/Buffy"
   shows five NYT headlines of “Technology” category
-6. Go to the URL "http://127.0.0.1:5000/headlines_link/Buffy"
+6. Go to the URL "http://127.0.0.1:5000/links/Buffy"
   shows five NYT headlines of “Technology” category with links
