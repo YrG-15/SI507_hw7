@@ -1,0 +1,16 @@
+
+<h1>
+Hello, {{name}}!
+</h1>
+
+<h3>Today's technology headlines are...<h3>
+<ul>
+{% for i in range(5) %}
+
+	<p>{{i+1}}. {{headlines[i]}}</p>
+
+{% endfor %}
+<ul/>
+
+
+
